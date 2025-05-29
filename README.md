@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sudan
+# Hi there 👋 I'm MaddhuSudan Khatri
 
 🎓 I'm an undergraduate Computer Science student passionate about building and learning modern software solutions. I use this GitHub space to document my learning journey, projects, and collaborations in the world of programming.
 
